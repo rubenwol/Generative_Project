@@ -1,6 +1,6 @@
 nuwave/test_sample/result
 nuwave/checkpoint
-CMGAN/src/best_ckpt
-CMGAN/src/models
-CMGAN/src/models_disc_saved
+CMGAN_/src/best_ckpt
+CMGAN_/src/models
+CMGAN_/src/models_disc_saved
 
